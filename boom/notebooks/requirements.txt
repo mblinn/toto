@@ -1,0 +1,8 @@
+# Requirements for the sample visualization notebook
+# Pin common scientific stack
+numpy==1.26.4
+matplotlib
+huggingface_hub
+datasets
+gift-eval
+torch
